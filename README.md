@@ -1,5 +1,5 @@
 # E-commerce
-This is an E-commerce Website for ELectronic products ..Where the user can Select the product like headphones , Mobile phones ,Laptops etc.
+This is an E-commerce Website for Electronic products ..Where the user can Select the product like headphones , Mobile phones ,Laptops etc.
 To Access the website the user have to Register first and login with their registration Creditenials
 After login,there will be a separate Dashboard for different categories
 User can add their product to Cart
